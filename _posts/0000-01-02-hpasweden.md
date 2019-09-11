@@ -2,5 +2,5 @@
 layout: slide
 title: "Här är bild nummer tvååå"
 ---
-Min text kommer här
+Mycket rolig vits
 Use the left arrow to go back!
